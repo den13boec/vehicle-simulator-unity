@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/mainMenu.unity
+    guid: 9dd10fb0d10c7cf4eba9ff676e5818ff
+  - enabled: 1
+    path: Assets/Scenes/trackSelection.unity
+    guid: fb324be00c2181c40a377c4e49264146
+  - enabled: 1
+    path: Assets/Prefabs/Scenes/cityDay.unity
+    guid: e39d93254044d444ba1ae0db9b2574f7
+  - enabled: 1
+    path: Assets/Scenes/forestDay.unity
+    guid: de3d5a5e77224d34fb3dc953f3e76120
+  - enabled: 1
+    path: Assets/Prefabs/Scenes/cityDayFree.unity
+    guid: e1b28f662f9d8a141b0393f765a3efc7
+  - enabled: 1
+    path: Assets/Scenes/infoControl.unity
+    guid: 8af6d579a101a4f4cb67e208b86f6cf5
+  m_configObjects: {}
